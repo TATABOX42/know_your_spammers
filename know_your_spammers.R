@@ -2,7 +2,7 @@
 # ***********************************************
 # Author: Benjamin Tovar
 # Date: October, 2015
-# Post: http://btovar.com/2015/04/text-mining-in-r/ ‎
+# Post: http://btovar.com/2015/10/spam-comment-analysis-in-r/ ‎
 # ***********************************************
 # ***********************************************
 
